@@ -1,0 +1,2 @@
+./dataset/32k/speaker0/vocal7.wav
+./dataset/32k/speaker0/vocal6.wav
